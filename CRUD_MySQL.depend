@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1727820310 source:c:\users\said\documents\c++\crud_mysql_vscode\crud_mysql\main.cpp
+	<iostream>
+	<Windows.h>
+	<mysql.h>
+	<sstream>
+
