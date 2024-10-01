@@ -1,7 +1,7 @@
 Étapes pour exécuter du code C++ MySQL dans Code::Blocks :
 1. Installer MySQL Server et MySQL Connector/C++ :
-	- MySQL Server : Si vous n'avez pas déjà installé MySQL, téléchargez-le et installez-le depuis MySQL Downloads.
-	- MySQL Connector C++ : Vous avez besoin de la bibliothèque qui permet de connecter votre programme C++ à la base de données MySQL. Téléchargez-le depuis MySQL Connector C++.
+	- MySQL Server : Si vous n'avez pas déjà installé MySQL, téléchargez-le et installez-le depuis MySQL Downloads (https://dev.mysql.com/downloads/).
+	- MySQL Connector C++ : Vous avez besoin de la bibliothèque qui permet de connecter votre programme C++ à la base de données MySQL. Téléchargez-le depuis MySQL Connector C++ (https://dev.mysql.com/downloads/connector/cpp/).
 2. Configurer Code::Blocks :
 	a.	Installer MinGW (si ce n'est pas déjà fait) :
 		- Si vous avez installé Code::Blocks avec MinGW (Minimalist GNU for Windows), assurez-vous qu'il est configuré correctement.
